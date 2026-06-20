@@ -1,7 +1,7 @@
 (function () {
   'use strict';
 
-  var WHATSAPP_NUMBER = '5551991213724';
+  var WHATSAPP_NUMBER = '5554999999999';
   var CITY_NAME = 'Salto do Yucumã';
   var prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
